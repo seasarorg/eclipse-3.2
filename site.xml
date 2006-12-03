@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.seasar.s2jsfplugin.feature_1.1.0.jar" id="org.seasar.s2jsfplugin.feature" version="1.1.0">
+      <category name="S2JSF Plugin"/>
+   </feature>
+   <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
+</site>
