@@ -18,8 +18,12 @@
    <feature url="features/org.seasar.dblauncher_0.0.3.jar" id="org.seasar.dblauncher" version="0.0.3">
       <category name="DbLauncher"/>
    </feature>
+   <feature url="features/org.seasar.kvasir.plust_0.0.4.jar" id="org.seasar.kvasir.plust" version="0.0.4">
+      <category name="Kvasir"/>
+   </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
    <category-def name="Kijimuna" label="Kijimuna"/>
    <category-def name="Dolteng" label="Dolteng"/>
    <category-def name="DbLauncher" label="DbLauncher"/>
+   <category-def name="Kvasir" label="Kvasir/Sora"/>
 </site>
