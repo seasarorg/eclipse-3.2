@@ -27,6 +27,9 @@
    <feature url="features/org.seasar.weblauncher_0.0.1.jar" id="org.seasar.weblauncher" version="0.0.1">
       <category name="WebLauncher"/>
    </feature>
+   <feature url="features/org.seasar.weblauncher_0.0.2.jar" id="org.seasar.weblauncher" version="0.0.2">
+      <category name="WebLauncher"/>
+   </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
    <category-def name="Kijimuna" label="Kijimuna"/>
    <category-def name="Dolteng" label="Dolteng"/>
