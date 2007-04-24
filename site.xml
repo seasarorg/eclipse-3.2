@@ -30,10 +30,14 @@
    <feature url="features/org.seasar.weblauncher_0.0.2.jar" id="org.seasar.weblauncher" version="0.0.2">
       <category name="WebLauncher"/>
    </feature>
+   <feature url="features/org.seasar.mayaa.matatabi.feature_0.3.0.jar" id="org.seasar.mayaa.matatabi.feature" version="0.3.0">
+      <category name="Matatabi"/>
+   </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
    <category-def name="Kijimuna" label="Kijimuna"/>
    <category-def name="Dolteng" label="Dolteng"/>
    <category-def name="DbLauncher" label="DbLauncher"/>
    <category-def name="Kvasir" label="Kvasir/Sora"/>
    <category-def name="WebLauncher" label="WebLauncher"/>
+   <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
 </site>
