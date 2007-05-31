@@ -6,44 +6,14 @@
    <feature url="features/org.seasar.kijimuna_1.1.3.jar" id="org.seasar.kijimuna" version="1.1.3">
       <category name="Kijimuna"/>
    </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.17.0.jar" id="org.seasar.dolteng.eclipse" version="0.17.0">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.18.0.jar" id="org.seasar.dolteng.eclipse" version="0.18.0">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.18.1.jar" id="org.seasar.dolteng.eclipse" version="0.18.1">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dblauncher_0.0.3.jar" id="org.seasar.dblauncher" version="0.0.3">
-      <category name="DbLauncher"/>
-   </feature>
    <feature url="features/org.seasar.kvasir.plust.feature_0.0.4.jar" id="org.seasar.kvasir.plust.feature" version="0.0.4">
       <category name="Kvasir"/>
-   </feature>
-   <feature url="features/org.seasar.dblauncher_0.0.4.jar" id="org.seasar.dblauncher" version="0.0.4">
-      <category name="DbLauncher"/>
-   </feature>
-   <feature url="features/org.seasar.weblauncher_0.0.1.jar" id="org.seasar.weblauncher" version="0.0.1">
-      <category name="WebLauncher"/>
-   </feature>
-   <feature url="features/org.seasar.weblauncher_0.0.2.jar" id="org.seasar.weblauncher" version="0.0.2">
-      <category name="WebLauncher"/>
    </feature>
    <feature url="features/org.seasar.mayaa.matatabi.feature_0.3.0.jar" id="org.seasar.mayaa.matatabi.feature" version="0.3.0">
       <category name="Matatabi"/>
    </feature>
-   <feature url="features/org.seasar.weblauncher_0.1.0.jar" id="org.seasar.weblauncher" version="0.1.0">
-      <category name="WebLauncher"/>
-   </feature>
    <feature url="features/org.seasar.dblauncher_0.1.0.jar" id="org.seasar.dblauncher" version="0.1.0">
       <category name="DbLauncher"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.18.2.jar" id="org.seasar.dolteng.eclipse" version="0.18.2">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.18.3.jar" id="org.seasar.dolteng.eclipse" version="0.18.3">
-      <category name="Dolteng"/>
    </feature>
    <feature url="features/org.seasar.weblauncher_0.2.0.jar" id="org.seasar.weblauncher" version="0.2.0">
       <category name="WebLauncher"/>
@@ -51,26 +21,8 @@
    <feature url="features/org.seasar.mayaa.matatabi.feature_0.4.0.jar" id="org.seasar.mayaa.matatabi.feature" version="0.4.0">
       <category name="Matatabi"/>
    </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.19.0.jar" id="org.seasar.dolteng.eclipse" version="0.19.0">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.19.1.jar" id="org.seasar.dolteng.eclipse" version="0.19.1">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.19.2.jar" id="org.seasar.dolteng.eclipse" version="0.19.2">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.20.0.jar" id="org.seasar.dolteng.eclipse" version="0.20.0">
-      <category name="Dolteng"/>
-   </feature>
    <feature url="features/org.seasar.mayaa.matatabi.feature_0.5.0.jar" id="org.seasar.mayaa.matatabi.feature" version="0.5.0">
       <category name="Matatabi"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.20.1.jar" id="org.seasar.dolteng.eclipse" version="0.20.1">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.20.3.jar" id="org.seasar.dolteng.eclipse" version="0.20.3">
-      <category name="Dolteng"/>
    </feature>
    <feature url="features/org.seasar.dolteng.eclipse_0.20.4.jar" id="org.seasar.dolteng.eclipse" version="0.20.4">
       <category name="Dolteng"/>
