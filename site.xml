@@ -27,10 +27,7 @@
    <feature url="features/org.seasar.mayaa.matatabi.feature_0.5.0.jar" id="org.seasar.mayaa.matatabi.feature" version="0.5.0">
       <category name="Matatabi"/>
    </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.20.7.jar" id="org.seasar.dolteng.eclipse" version="0.20.7">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.20.8.jar" id="org.seasar.dolteng.eclipse" version="0.20.8">
+   <feature url="features/org.seasar.dolteng.eclipse_0.20.9.jar" id="org.seasar.dolteng.eclipse" version="0.20.9">
       <category name="Dolteng"/>
    </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
