@@ -33,6 +33,9 @@
    <feature url="features/org.seasar.dolteng.eclipse_0.20.10.jar" id="org.seasar.dolteng.eclipse" version="0.20.10">
       <category name="Dolteng"/>
    </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.20.11.jar" id="org.seasar.dolteng.eclipse" version="0.20.11">
+      <category name="Dolteng"/>
+   </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
    <category-def name="Kijimuna" label="Kijimuna"/>
    <category-def name="Dolteng" label="Dolteng"/>
