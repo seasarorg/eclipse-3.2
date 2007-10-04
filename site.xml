@@ -39,8 +39,8 @@
    <feature url="features/org.seasar.dolteng.eclipse_0.22.0.jar" id="org.seasar.dolteng.eclipse" version="0.22.0">
       <category name="Dolteng"/>
    </feature>
-   <feature url="features/org.seasar.dbflute.eclipse.feature_0.1.0.jar" id="org.seasar.dbflute.eclipse.feature" version="0.1.0">
-      <category name="DBFlute"/>
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.1.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.1.0">
+      <category name="EMecha"/>
    </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
    <category-def name="Kijimuna" label="Kijimuna"/>
@@ -49,5 +49,5 @@
    <category-def name="Kvasir" label="Kvasir/Sora"/>
    <category-def name="WebLauncher" label="WebLauncher"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
-   <category-def name="DBFlute" label="DBFlute"/>
+   <category-def name="EMecha" label="EMecha"/>
 </site>
