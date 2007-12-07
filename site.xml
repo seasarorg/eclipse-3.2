@@ -36,6 +36,9 @@
    <feature url="features/org.seasar.dolteng.eclipse_0.24.0.jar" id="org.seasar.dolteng.eclipse" version="0.24.0">
       <category name="Dolteng"/>
    </feature>
+   <feature url="features/org.seasar.sysdeo.tomcat.feature_3.2.1.jar" id="org.seasar.sysdeo.tomcat.feature" version="3.2.1">
+      <category name="Tomcat Launcher"/>
+   </feature>
    <category-def name="S2JSF Plugin" label="S2JSF Plugin"/>
    <category-def name="Kijimuna" label="Kijimuna"/>
    <category-def name="Dolteng" label="Dolteng"/>
@@ -44,4 +47,5 @@
    <category-def name="WebLauncher" label="WebLauncher"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="EMecha" label="EMecha"/>
+   <category-def name="Tomcat Launcher" label="Sysdeo/SQLI Tomcat Launcher"/>
 </site>
