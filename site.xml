@@ -36,7 +36,7 @@
    <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.1.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.1.0">
       <category name="EMecha"/>
    </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.25.0.jar" id="org.seasar.dolteng.eclipse" version="0.25.0">
+   <feature url="features/org.seasar.dolteng.eclipse_0.26.0.jar" id="org.seasar.dolteng.eclipse" version="0.26.0">
       <category name="Dolteng"/>
    </feature>
    <feature url="features/org.seasar.sysdeo.tomcat.feature_3.2.1.jar" id="org.seasar.sysdeo.tomcat.feature" version="3.2.1">
